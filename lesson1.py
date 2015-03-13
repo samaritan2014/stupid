@@ -12,7 +12,7 @@ if age < 2015:
 else:
 	print "Please enter a valid number for the year Bitch!"
 
-print "I guess you are str(ageGuess) years old."
+print "I guess you are "+str(ageGuess)+" years old."
 
 if gender.lower() == "male":
 	print ("So you have a penis! :) ")
